@@ -1,0 +1,3 @@
+/home/daniel/Jumba_2/build/CMakeFiles/edit_cache.dir
+/home/daniel/Jumba_2/build/CMakeFiles/rebuild_cache.dir
+/home/daniel/Jumba_2/build/CMakeFiles/Flight_Generator.dir
